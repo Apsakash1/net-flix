@@ -4,7 +4,7 @@
 
 The visible change in the home page based on choosen profile will be the user pic icon in the top-right corner. You can also click this icon to be redirected back to login(profile chooser) page to change profile.
 
-Official React Documentation below to run the project locally:
+# Official React Documentation below to run the project locally:
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
