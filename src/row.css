@@ -1,0 +1,35 @@
+.row{
+    background-color: rgba(0, 0, 0, 0.826);
+    margin-top: 4em;
+    /* margin-bottom: 2em; */
+    padding-bottom: 1em;
+    margin-left: 2em;
+}
+
+.row h1{
+    color: white;
+}
+
+.row-image-container{
+    display: flex;
+    gap: 13px;
+    overflow-y: hidden;
+    overflow-x: scroll;
+}
+
+.row-image-container::-webkit-scrollbar{
+    display: none;
+}
+
+.row-images{
+    cursor: pointer;
+    border-radius: 10px;
+    object-fit: contain;
+    width:200px;
+    padding: 10px;
+    transition: transform 0.5s;
+}
+
+.row-images:hover{
+    transform: scale(1.5);
+}

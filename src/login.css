@@ -1,0 +1,41 @@
+
+.login{
+    background-color: black;
+    margin: auto;
+    padding-top: 200px;
+    height: auto;
+}
+
+.login h1{
+    color: white;
+    margin: auto;
+    width: 27%;
+    padding-bottom: 50px;
+    align-items: center;
+}
+
+.login h3{
+    color: white;
+    margin: auto;
+    font-size: small;
+    width: 17%;
+    padding-bottom: 50px;
+    align-items: center;
+}
+
+.profiles-div{
+    position: relative;
+    margin: auto;
+    width: 45%;
+}
+
+.login-profile{
+    position: relative;
+    float: left;
+    display: flex;
+    display: inline-flexbox;
+    margin: auto;
+    padding: 15px;
+    height: 150px;
+    border-radius: 27px;
+}
