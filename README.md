@@ -2,6 +2,7 @@
 
  A dummy netflix [website](https://62b8a419d2fa15730e37d349--zippy-torte-3cb121.netlify.app/) consisting of a login page(Allows you to pick a profile with which you woul like to start watching and accordingly redirects) & home page hosted on https://62b8a419d2fa15730e37d349--zippy-torte-3cb121.netlify.app/
 
+The visible change in the home page based on choosen profile will be the user pic icon in the top-right corner. You can also click this icon to be redirected back to login(profile chooser) page to change profile.
 
 Official React Documentation below to run the project locally:
 ## Getting Started with Create React App
