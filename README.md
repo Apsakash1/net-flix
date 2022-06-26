@@ -1,8 +1,10 @@
-### NET-FLIX
+# NET-FLIX
 
  A dummy netflix [website](https://62b8a419d2fa15730e37d349--zippy-torte-3cb121.netlify.app/) consisting of a login page(Allows you to pick a profile with which you woul like to start watching and accordingly redirects) & home page hosted on https://62b8a419d2fa15730e37d349--zippy-torte-3cb121.netlify.app/
 
-# Getting Started with Create React App
+
+Official React Documentation below to run the project locally:
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
